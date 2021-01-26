@@ -17,5 +17,5 @@ Ex1: I think that the whole movie is a disaster.
      I regret to spend money on such a junk.   
      -> Negative comment
 Ex2: I think this movie is a incredible masterpiece.
-     The cinematography was amazing. It really brings art to a new level.
+     The cinematography was amazing. It really brings art to a new level.  
      -> Positive comment
